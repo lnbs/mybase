@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">MyBaseTest1</string>
+    <string name="str_loading">正在加载，请稍候…</string>
+    <string name="no_available_network">网络未连接，请点击重试</string>
+    <string name="setting_network">设置网络</string>
+    <string name="load_loading_tip">努力加载中</string>
+    <string name="load_end_tip">--end--</string>
+    <string name="load_failed_tip">点我再试试？</string>
+    <string name="MIPAI">MIPAI</string>
+    <string name="WEIBAO">WEIBO</string>
+    <string name="WEIXIN">WEIXIN</string>
+    <string name="YOUKU">YOUKU</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>
